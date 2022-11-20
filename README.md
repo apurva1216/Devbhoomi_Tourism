@@ -15,8 +15,18 @@ as a symbol of Indo-Japanese friendship. This original plot of 10 acres was expa
 > * During the meditation hours, all the devotees who assemble in the temple chant 'Nangu-Mayo-Ho-Renge-Kyo'.
 > * The temple is an ideal place for those who are looking for some peace and want to de-stress yourself.
 
-## Toursit Reviews
-| Traveller Rating | Traveller Type | Time of Year | Languages |
-|----------------- |---------------- | ------------ |---------- |
-| Excellent Families |- [X] Families |- [] Mar-may |- [] All Languages |
+##  Toursit Reviews 
+| Traveller rating | Traveller type | Time of year | Language |
+| ------ |----- | ----- | ----- |
+| Excellent | Families  | Mar-May  | All Lagugaes  |
+| Very Good | couples |  Jun-Aug |  English(26) |
+| Average |  solo   |  Sep-Nov | Japanese(1) |
+| Poor  |    Business Dec-Feb |
+| Terrible | Friends |
+
+
+Link: [dragon_palace_temple_org](dragon-palace-temple.org).                                                                                                                                                                      
+![image](https://user-images.githubusercontent.com/113286570/202896039-196c05f6-666e-469f-b756-1d44d902d5e2.png)  
+
+
 
