@@ -2,6 +2,7 @@
 **The meaning of Devbhoomi is **“The land of God"** and this title is given to many sacred places in India. Devbhoomi is mostly called to the Himalayan region of India.**
 
 *Uttarakhand is called devbhoomi; the land of gods because there are so many Hindu pilgrimage spots in Uttarakhand. Also, **Uttarakhand** is known as Devbhoomi since ancient times, now this state is regarded as Devbhoomi Uttarakhand in India.*
+[MAP](https://mountainshepherds.com/wp-content/uploads/2010/08/map-uttarakhand.pdf)
 
 ### Tourist Places to Visit in **'Devbhoomi'** Uttarakhand.
 > - Rishikesh.  
@@ -34,4 +35,4 @@
  > - 98.85% Positive Reviews
  > - Based On 1826 Ratings
  
- Let's Check Out Here to Know More About "Uttarakhand", 'The Land of City'.:green_heart:[MAP] (http://mountainshepherds.com/wp-content/uploads/2010/08/map-uttarakhand.pdf)
+ Let's Check Out Here to Know More About "Uttarakhand", 'The Land of God'.:green_heart:
