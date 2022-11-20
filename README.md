@@ -35,4 +35,4 @@
  > - 98.85% Positive Reviews
  > - Based On 1826 Ratings
  
- Let's Check Out Here to Know More About "Uttarakhand", 'The Land of God'.:green_heart:
+[ Let's Check Out on wikipedia to Know More About "Uttarakhand", 'The Land of God'.:green_heart:](https://www.wikipedia.com)
