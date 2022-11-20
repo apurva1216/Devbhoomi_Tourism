@@ -24,6 +24,13 @@
 | Haridwar | Haridwar is an ancient city and important Hindu pilgrimage site in North India's Uttarakhand state, where the River Ganges exits the Himalayan foothills. The largest of several sacred ghats (bathing steps), Har Ki Pauri hosts a nightly Ganga Aarti (river-worshipping ceremony) in which tiny flickering lamps are floated off the steps. Worshipers fill the city during major festivals including the annual Kanwar Mela. | ![image](https://user-images.githubusercontent.com/113286570/202908286-13a5a300-4a09-4305-8158-a5eaab7c8e0d.png) |
 | Kedarnath | Kedarnath is a town and Nagar Panchayat in Rudraprayag district of Uttarakhand, India, known primarily for the Kedarnath Temple. It is approximately 86 kilometres from Rudraprayag, the district headquarter. Kedarnath is the most remote of the four Chota Char Dham pilgrimage sites.| ![image](https://user-images.githubusercontent.com/113286570/202907635-09348de6-3804-4254-8809-d5295eeee3dd.png) |
 | Auli | Auli is a Himalayan ski resort and hill station in the north Indian state of Uttarakhand. It’s surrounded by coniferous and oak forests, plus the Nanda Devi and Nar Parvat mountains. A long cable car links Auli to the town of Joshimath. North of Auli are the colorful Badrinath Temple, a Hindu pilgrimage site, and the Valley of Flowers National Park, with its alpine flora and wildlife like snow leopards and red foxes.| ![image](https://user-images.githubusercontent.com/113286570/202907881-a97ed78f-7f70-48e1-b62e-bbbda837ae01.png) |
+## Transport System
+```sh
+Air transport
+Travels
+Trains
+Busses
+```
 
 ## People's Reviews Section 
   ~~~
