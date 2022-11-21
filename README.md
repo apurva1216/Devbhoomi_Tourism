@@ -4,16 +4,19 @@
 
 *Uttarakhand is called devbhoomi; the land of gods because there are so many Hindu pilgrimage spots in Uttarakhand. Also, **Uttarakhand** is known as Devbhoomi since ancient times, now this state is regarded as Devbhoomi Uttarakhand in India.*
 
-- [Uttarakhand Tourism](http://uttarakhandtourism.gov.in/)
+- [History](https://en.wikipedia.org/wiki/Uttarakhand#History)
+- [Culture](https://en.wikipedia.org/wiki/Uttarakhand#Culture)
+- [religion](https://en.wikipedia.org/wiki/Uttarakhand#Religion)
+- [Languages](https://en.wikipedia.org/wiki/Uttarakhand#Languages)
 
 ### Tourist Places to Visit in **'Devbhoomi'** Uttarakhand.
-> - Rishikesh.  
-> - Nainital. 
-> - Mussoorie. 
-> - Badrinath. 
-> - Haridwar. 
-> - kedarnath. 
-> - Auli.
+> 1. Rishikesh.  
+> 2. Nainital. 
+> 3. Mussoorie. 
+> 4. Badrinath. 
+> 5. Haridwar. 
+> 6. kedarnath. 
+> 7. Auli.
 
 | Places | Description | Images |
 | ----------- | ----------- | ---------- |
